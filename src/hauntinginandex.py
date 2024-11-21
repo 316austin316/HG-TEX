@@ -310,7 +310,7 @@ def import_textures():
 # Main GUI setup
 def main():
     root = tk.Tk()
-    root.title("Haunting Ground TEX Importer/Exporter")
+    root.title("Haunting Ground TEX Importer/Exporter 1.0")
 
     
     root.geometry("300x150")
