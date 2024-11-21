@@ -30,11 +30,6 @@ Notes
 
     For importing textures, the reference .TEX file is necessary to preserve the correct headers and unknown bytes.
 
-Troubleshooting
-
-    No File Selected: Ensure that you select the appropriate files when prompted by the file dialogs.
-    Unsupported Format Flag: If you encounter a ValueError regarding an unsupported format flag, the script may not support the texture format in your .TEX file.
-    Missing Libraries: If the script fails due to missing modules, make sure all required libraries are installed using pip.
 
 TL;DR:
 
