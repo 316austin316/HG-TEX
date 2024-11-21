@@ -9,8 +9,6 @@ Features
 
 Usage
 
-    GUI Interface:
-
         Export Textures:
             Click on "Export Textures".
             Select the .TEX file you want to export textures from.
